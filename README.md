@@ -362,7 +362,7 @@ The Haversine formula estimates straight-line geographical distance and does not
 
 # 📜 License & Credits
 
-**Designed, Architected, and Developed by Surimalla Venkata Tejaswi.**
+**Designed, Architected, and Developed by Susmitha Bandela.**
 
 PULSE is an independently developed academic and portfolio project.
 
@@ -395,7 +395,7 @@ Third-party technologies and geographical data remain subject to their respectiv
 </p>
 
 <p align="center">
-  Developed with dedication by <strong>Surimalla Venkata Tejaswi</strong>
+  Developed with dedication by <strong>Susmitha Bandela</strong>
 </p>
 
 <p align="center">

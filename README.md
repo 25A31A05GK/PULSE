@@ -381,7 +381,7 @@ Third-party technologies and geographical data remain subject to their respectiv
 | Category | Details |
 |---|---|
 | Project | PULSE |
-| Developer | Surimalla Venkata Tejaswi |
+| Developer | Susmitha Bandela |
 | Year | 2026 |
 | Domain | GIS & Emergency Dispatch |
 | Core Language | C++ |

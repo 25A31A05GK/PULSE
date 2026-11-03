@@ -30,8 +30,8 @@ PULSE explores how algorithmic efficiency and geographical intelligence can supp
 
 ## 🔗 Live Application & Repository
 
-- 🌐 **Live Web Application:** [Launch PULSE](https://25a31a05hh.github.io/PULSE/)
-- 📦 **GitHub Repository:** [25A31A05GK/PULSE](https://github.com/25A31A05HH/PULSE)
+- 🌐 **Live Web Application:** [Launch PULSE](https://25a31a05gk.github.io/PULSE/)
+- 📦 **GitHub Repository:** [25A31A05GK/PULSE](https://25a31a05gk.github.io/PULSE/)
 
 ---
 
